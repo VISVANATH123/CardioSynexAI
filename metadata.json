@@ -1,0 +1,6 @@
+{
+  "name": "CardioSynex AI",
+  "description": "Interactive 3D Cardiovascular Risk Intelligence Platform with Explainable AI & What-If Simulation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
